@@ -16,7 +16,7 @@ export class App {
 		partyDateTime: '27 de Septiembre a las 22:00hs hasta 5:00hs',
 		partyLocation: 'Salón de Fiestas P.A.R. - Córdoba 1850 Yerba Buena - Tucumán',
 		dressCode: 'Elegante (Se reserva el rojo y dorado para la cumpleañera)',
-		confirmationDeadline: '15/9/2025',
+		confirmationDeadline: '18/9/2025',
 		userInstagram: '',
 		hashtag: '#mis15luciana',
 		giftsData: {
